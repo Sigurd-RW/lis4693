@@ -13,7 +13,9 @@ Our goal for this project was to look at how the topics in her lyrics changed ov
 # Visualizations
 
 # Topic Analysis
+- Here we can see the contents of all ten lda topics.
 <img width="1589" height="1985" alt="image" src="https://github.com/user-attachments/assets/425e24e9-7b9f-4de5-99b5-958c494bae0f" />
+-
 <img width="1102" height="673" alt="image" src="https://github.com/user-attachments/assets/6f969f5a-0f9f-4073-a264-f907ad75c0a4" />
 
 # Sentiment Analysis
