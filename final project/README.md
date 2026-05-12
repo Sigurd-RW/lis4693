@@ -21,7 +21,7 @@ Our goal for this project was to look at how the topics in her lyrics changed ov
 <img width="1102" height="673" alt="image" src="https://github.com/user-attachments/assets/6f969f5a-0f9f-4073-a264-f907ad75c0a4" />
 
 # Sentiment Analysis
-- Below are the sentiment scores calculated for each album. This revealed a trend in how Taylor Swift's lyrics have changed over time.
+- Below are the sentiment scores calculated for each album. This revealed a trend in how Taylor Swift's lyrics have changed over the years.
 <img width="349" height="439" alt="image" src="https://github.com/user-attachments/assets/7f9a40ce-3564-404b-8007-40ae84684f71" />
 - This is a bar chart that shows the results of the sentiment of Taylor Swift's lyrics across the years.
 <img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/db0adece-a9b4-4636-a286-78de4f27f75c" />
