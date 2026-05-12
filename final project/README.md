@@ -1,5 +1,6 @@
 # LIS 4693 Final Project: Text Analysis of Taylor Swift's Lyrics from 2006 to 2020.
-# By Shelton Wright and Stefani Morgan
+
+By Shelton Wright and Stefani Morgan
 
 This repository contains a reproducible case study of Taylor Swift's lyrics from 2006 to 2020 using text analysis methods like topic modeling and sentiment analysis.
 Our goal for this project was to look at how the topics in her lyrics changed over time, so we used sentiment analysis to gain insights on the trends in her writings and then matched it to the topics we generated with topic modeling.
