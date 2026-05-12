@@ -7,3 +7,6 @@ Our goal for this project was to look at how the topics in her lyrics changed ov
 # Contents
 - The Dataset file contains the data for the case study. It was sourced from the Tidy Tuesday project from https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-09-29/taylor_swift_lyrics.csv#L32.
 - The Final_Project.ipynb file contains the code in a Jupyter notebook for the case study.
+- (poster)
+- (visualizations)
+- (results)
