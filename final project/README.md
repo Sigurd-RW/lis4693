@@ -27,4 +27,5 @@ Our goal for this project was to look at how the topics in her lyrics changed ov
 <img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/db0adece-a9b4-4636-a286-78de4f27f75c" />
 - Here is a seaborn chart to more properly show the intensity of her sentiments.
 <img width="587" height="476" alt="image" src="https://github.com/user-attachments/assets/73b3cb6a-e066-48fe-ab8a-39d59b057109" />
-- (results)
+
+- Through using sentiment analysis and topic modeling, our case study was able to identify a trend in Taylor Swift's lyrics over the years. Looking at the sentiment scores for each album, they seem to alternate in positive and negative scores. From the topic modeling we were able to see some of the main emotional themes Taylor Swift wrote about in her songs, which provided context for the sentiment scores generated for each album.
