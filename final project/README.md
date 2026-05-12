@@ -1,4 +1,4 @@
-<img width="1589" height="1985" alt="download" src="https://github.com/user-attachments/assets/3cfe4558-93b9-4077-bcbd-b6a24b406448" /># LIS 4693 Final Project: Text Analysis of Taylor Swift's Lyrics from 2006 to 2020.
+ /># LIS 4693 Final Project: Text Analysis of Taylor Swift's Lyrics from 2006 to 2020.
 
 By Shelton Wright and Stefani Morgan
 
