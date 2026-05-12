@@ -1,4 +1,4 @@
- /># LIS 4693 Final Project: Text Analysis of Taylor Swift's Lyrics from 2006 to 2020.
+ # LIS 4693 Final Project: Text Analysis of Taylor Swift's Lyrics from 2006 to 2020.
 
 By Shelton Wright and Stefani Morgan
 
